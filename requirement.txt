@@ -1,7 +1,6 @@
 streamlit
 facenet-pytorch
 torch
-opencv-python
 Pillow
 matplotlib
 numpy
